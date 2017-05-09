@@ -1,0 +1,37 @@
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.exe.config
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.exe
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.pdb
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.xml
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.vbprojResolveAssemblyReference.cache
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR_API.Form1.resources
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR_API.Resources.resources
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.vbproj.GenerateResource.Cache
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.exe
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.xml
+c:\users\burletm\documents\visual studio 2015\Projects\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.pdb
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.exe.config
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.exe
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.xml
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.pdb
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.exe
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.pdb
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\bin\Debug\SmiteFR API.xml
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR_API.Form1.resources
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR_API.Resources.resources
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.vbproj.GenerateResource.Cache
+C:\Users\Zephir\Desktop\SmiteFR API\SmiteFR API\obj\Debug\SmiteFR API.vbprojResolveAssemblyReference.cache
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\bin\Debug\SmiteFR API.exe.config
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR API.exe
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR API.xml
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR API.pdb
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\bin\Debug\SmiteFR API.exe
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\bin\Debug\SmiteFR API.pdb
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\bin\Debug\SmiteFR API.xml
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR API.vbprojResolveAssemblyReference.cache
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.Form1.resources
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.Resources.resources
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR API.vbproj.GenerateResource.Cache
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_PlayerStats.resources
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_Preferences.resources
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_Information.resources
+C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_Key.resources

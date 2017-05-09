@@ -1,6 +1,8 @@
 # Smite-Vb
 A vb.net application using the SMITE API
 
+![Main View](/Screens/smite%20vb.PNG)
+
 ## Licence Information
 The sources are published under the **Simple non code license (SNCL)** due to the fact that it uses the SMITE API wich is to be used only with **free content**.
 

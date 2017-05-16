@@ -6,6 +6,7 @@ A vb.net application using the SMITE API
 ## Versions
 
 Version: 1.0.0.0 --> First Release
+
 Version: 1.1.0.0 --> Added all comments
 
 ## Licence Information

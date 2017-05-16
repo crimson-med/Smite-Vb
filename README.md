@@ -5,9 +5,9 @@ A vb.net application using the SMITE API
 
 ## Versions
 
-Version: 1.0.0.0 --> First Release
+Version: **1.0.0.0** --> First Release
 
-Version: 1.1.0.0 --> Added all comments
+Version: **1.1.0.0** --> Added all comments
 
 ## Licence Information
 The sources are published under the **Simple non code license (SNCL)** due to the fact that it uses the SMITE API wich is to be used only with **free content**.

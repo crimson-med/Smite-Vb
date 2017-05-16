@@ -2,8 +2,9 @@
 Imports System.Web.Script.Serialization
 Imports System.IO
 
-
+'This Module handles all the data management.
 Module DataHandler
+    'Function to generate the MD5 Hash from string
     Public Function GetMD5Hash(ByVal Input As String) As String
         Dim md5 = New System.Security.Cryptography.MD5CryptoServiceProvider()
         Dim bytes = System.Text.Encoding.UTF8.GetBytes(Input)
@@ -15,6 +16,7 @@ Module DataHandler
         Return sb.ToString()
     End Function
 
+    'Function to extract the JSON Session data
     Public Function ExtractSession(ByVal Data As String) As Boolean
         Using web = New WebClient()
             Try
@@ -30,6 +32,7 @@ Module DataHandler
         End Using
     End Function
 
+    'Function that returns true or false if the credentials exist.
     Public Function CheckCredentials() As Boolean
         Dim Result As Boolean = False
         Dim temp As String = ""

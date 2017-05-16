@@ -1,4 +1,5 @@
-﻿Public Class Item
+﻿'This Class is the model for Items based on the JSON response
+Public Class Item
     Public Property ChildItemId As Integer
     Public Property DeviceName As String
     Public Property IconId As Integer

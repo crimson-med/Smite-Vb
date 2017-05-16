@@ -35,3 +35,18 @@ C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_PlayerStat
 C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_Preferences.resources
 C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_Information.resources
 C:\Users\burletm\Desktop\SMITE FR\SmiteFR API\obj\Debug\SmiteFR_API.V_Key.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\bin\Debug\SmiteFR API.exe.config
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR API.exe
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR API.xml
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR API.pdb
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\bin\Debug\SmiteFR API.exe
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\bin\Debug\SmiteFR API.pdb
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\bin\Debug\SmiteFR API.xml
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR API.vbprojResolveAssemblyReference.cache
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR_API.Form1.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR_API.Resources.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR_API.V_Information.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR_API.V_Key.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR_API.V_PlayerStats.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR_API.V_Preferences.resources
+C:\Users\burletm\Desktop\SMITE FR\Smite-Vb\SmiteFR API\obj\Debug\SmiteFR API.vbproj.GenerateResource.Cache

@@ -1,9 +1,9 @@
 ﻿Imports System.Text.RegularExpressions
-
+'Here we handle on a global scale the language selection so it can be included in every necessary request
 Module LanguageHandler
-
+    'List of languages (stored in combobox)
     Public Languages As List(Of String) = GetLanguageName()
-
+    'Current supported languages by SMITE (cf: SMITE API Dev Guide)
     Public Function GetLanguageName() As List(Of String)
         Dim Ini As New List(Of String)
         Ini.Add("01 - English")
@@ -18,8 +18,11 @@ Module LanguageHandler
         Return Ini
     End Function
 
+    'Get the selected language code
     Public Function GetLanguageCode(ByVal MyCombo As ComboBox) As Integer
+        'Default language is French (Yup I'm a french dev)
         Dim Result As Integer = 3
+        'Regex match to isolate the code
         Dim match As Match = Regex.Match(MyCombo.Text, "\d\d")
         If match.Success Then
             Result = Convert.ToInt32(match.Value)

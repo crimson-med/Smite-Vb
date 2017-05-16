@@ -1,4 +1,5 @@
 ﻿Imports System.IO
+'This Module handles everything related with sessions
 Module SessionHandler
     'Checks if the previous session is still valid True = Yes and False = No
     Public Function GetSession() As Boolean
@@ -50,24 +51,38 @@ Module SessionHandler
         'Return if session is valid or not
         Return Result
     End Function
+
     'Create new session if created returns True otherwise False
     Public Function CreateSession() As Boolean
+        'Default result is false it didn't work unless we managed to do it
         Dim Result As Boolean = False
+        'Initialise Variables
         Dim TimeStamp As String = ""
-        Dim DTimeStamp As DateTime = DateTime.Now.ToUniversalTime
-        TimeStamp = DTimeStamp.ToString("yyyyMMddHHmmss")
-        Dim Signature As String = GetMD5Hash(DevKey & "createsession" & AuthKey & TimeStamp)
         Dim SessionResult As String = ""
+        'Get the current time
+        Dim DTimeStamp As DateTime = DateTime.Now.ToUniversalTime
+        'Format the time
+        TimeStamp = DTimeStamp.ToString("yyyyMMddHHmmss")
+        'Create a signature
+        Dim Signature As String = GetMD5Hash(DevKey & "createsession" & AuthKey & TimeStamp)
+        'Create a session request
         SessionResult = RequestApi(ApiPrefix & "createsessionjson/" & DevKey & "/" & Signature & "/" & TimeStamp)
+        'Check the result of the session creation
         If ExtractSession(SessionResult) = True Then
+            'Calculate the expiration time
             SessionExpiration = DTimeStamp.AddMinutes(15)
+            'Log the session to files
             LogSession(DTimeStamp)
+            'Give notification of session creation
             Form1.GiveNotification("Session Created", "New session was created with: " & SessionKey & vbNewLine & vbNewLine & "Will Expire at: " & SessionExpiration.ToLocalTime)
+            'Update the result
             Result = True
         Else
+            'Woohoo we have an error lets log it 
             LogError(SessionResult, DTimeStamp, "CreateSession")
             Result = False
         End If
+        'Return the result
         Return Result
     End Function
 End Module

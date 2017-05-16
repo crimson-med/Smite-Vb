@@ -1,5 +1,10 @@
-﻿Public Class V_Preferences
+﻿'This Form handles the basic preferences
+'
+'Future Implement: this is Run Only implement Save and Load
+'
+Public Class V_Preferences
     Private Sub V_Preferences_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Load current status
         ComboBox1.Text = CurrentPlatform.ToString
         If IsDebug = True Then
             CheckBox1.Checked = True
@@ -34,6 +39,7 @@
         Else
             IsDebug = False
         End If
+        'Update Form1
         Form1.UpdateDebug()
         Me.Close()
     End Sub

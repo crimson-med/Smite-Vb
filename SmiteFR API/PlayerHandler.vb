@@ -1,4 +1,5 @@
-﻿Public Class Player
+﻿'This Class is the model for Players based on the JSON response
+Public Class Player
     Public Property Avatar_URL() As String
         Get
             Return m_Avatar_URL

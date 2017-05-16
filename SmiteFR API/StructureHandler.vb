@@ -1,6 +1,11 @@
-﻿Module StructureHandler
+﻿'This Module handles everything related with structures for the DGV
+Module StructureHandler
+    'generate list of all the columns to implement
     Public ItemStructure As List(Of String) = GetItemStructure()
     Public GodStructure As List(Of String) = GetGodStructure()
+
+    'Current Item Structure this will depend on your database or the data you want to work with
+    'Maybe you don't need all of the data
     Public Function GetItemStructure() As List(Of String)
         Dim Ini As New List(Of String)
         Ini.Add("ChildItemId")
@@ -19,6 +24,8 @@
         Return Ini
     End Function
 
+    'Current God Structure this will depend on your database or the data you want to work with
+    'Maybe you don't need all of the data
     Public Function GetGodStructure() As List(Of String)
         Dim Ini As New List(Of String)
         Ini.Add("GodID")

@@ -1,4 +1,5 @@
-﻿Public Class Menuitem
+﻿'This Class is the model for Gods based on the JSON response
+Public Class Menuitem
     Public Property description() As String
         Get
             Return m_description
